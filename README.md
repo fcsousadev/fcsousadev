@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Cleiton Sousa
+# 👋 Olá, eu sou o Cleiton 
 
 💻 **Desenvolvedor de Software** com experiência em **Desenvolvimento Fullstack que englona (web, mobile e desktop)**, apaixonado por criar soluções eficientes e escaláveis.  
 🎯 Foco em qualidade de código, boas práticas e entrega de valor.
